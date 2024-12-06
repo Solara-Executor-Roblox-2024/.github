@@ -14,7 +14,8 @@ Before delving into Solara Executor, it’s essential to understand what a Roblo
 
 Executors are widely sought by both developers and casual players looking to experiment with custom scripts to enhance their gaming experience.
 
----
+![image](https://github.com/user-attachments/assets/fc5ad594-8097-4eec-903d-fd64144c6518)
+
 
 ### Introducing Solara Executor
 
@@ -48,7 +49,7 @@ Despite its powerful capabilities, Solara Executor is a lightweight tool that ru
 **8. 24/7 Customer Support**  
 In addition to its technical prowess, Solara Executor offers round-the-clock customer support. Users can reach out for assistance with troubleshooting, updates, or general inquiries, ensuring a seamless experience.
 
----
+![image](https://github.com/user-attachments/assets/73753ac4-84ad-433a-961d-dcd7956de338)
 
 ### Why Solara Executor Is #1 in 2024
 
@@ -90,7 +91,7 @@ Paste or upload the desired script into the executor’s interface. You can also
 **Step 5: Execute**  
 Click the execute button to run the script within Roblox. Enjoy the enhanced gaming experience!
 
----
+![image](https://github.com/user-attachments/assets/acbd719e-139b-4e55-be62-c2216e9de179)
 
 ### Is Solara Executor Safe?
 
